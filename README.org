@@ -1,0 +1,11 @@
+#+TITLE:Viterbi engram
+
+[[file:images/Viterbi_engram_layout.jpg]]
+
+[[https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear][Viterbi]] is a split ortholinear keyboard by [[keeb.io]]. It stikes a nice balance of providing sufficiently many keys to not miss anything from a full keyboard, while still being able to reach them without much wrist contortion.
+
+[[https://github.com/binarybottle/engram][The engram layout]] is a keyboard layout based on frequency data of letters in English words that is designed to be as ergonomic as possible: more frequent letters require less finger movement.
+
+This is my adaptation of the engram layout for the Viterbi keyboard. To make layout symmetric, I moved Q on the left side. This leaves space for both left and right SHIFT keys. TAB and ENTER are on their standard locations. In addition, I made the layout Emacs-centric by placing ALT and CTRL on the thumb row, on opposite halves of the keyboard. SPACE and BACKSAPCE are also on opposite halves. I have made sure standard Emacs key combinations are easily executable. Note that the thumb rows are offset relative to the main keys, giving it a ergonomic quality. 
+
+
