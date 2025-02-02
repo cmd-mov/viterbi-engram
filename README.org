@@ -2,6 +2,8 @@
 
 [[file:images/Viterbi_engram_layout.jpg]]
 
+I present the *Viterbi engram* keyboard layout!
+
 [[https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear][Viterbi]] is a split ortholinear keyboard by [[keeb.io]]. It stikes a nice balance of providing sufficiently many keys to not miss anything from a full keyboard, while still being able to reach them without much wrist contortion.
 
 [[https://github.com/binarybottle/engram][The engram layout]] is a keyboard layout based on frequency data of letters in English words that is designed to be as ergonomic as possible: more frequent letters require less finger movement.
